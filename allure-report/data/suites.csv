@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Wed Dec 08 10:58:20 IST 2021","Wed Dec 08 10:58:20 IST 2021","1","Suite","Test","allureReports.Tests","allureReports.Tests","ForgotUsername","Verify user name","Verify user Registration........"
+"skipped","Wed Dec 08 10:58:20 IST 2021","Wed Dec 08 10:58:20 IST 2021","1","Suite","Test","allureReports.Tests","allureReports.Tests","registrationTest","Verify user Registration","Verify user Registration........"
+"passed","Wed Dec 08 10:58:16 IST 2021","Wed Dec 08 10:58:17 IST 2021","168","Suite","Test","allureReports.Tests","allureReports.Tests","logoPresence","Verify Logo presence on Home Page","Verify Logo presence on Home Page........"
+"skipped","Wed Dec 08 10:58:20 IST 2021","Wed Dec 08 10:58:20 IST 2021","1","Suite","Test","allureReports.Tests","allureReports.Tests","ForgotPassword","Verify user Registration","Verify user Registration........"
+"broken","Wed Dec 08 10:58:17 IST 2021","Wed Dec 08 10:58:20 IST 2021","3459","Suite","Test","allureReports.Tests","allureReports.Tests","loginTest","Verify login","Verify login with Valid Credentials........"
+"skipped","Wed Dec 08 10:58:20 IST 2021","Wed Dec 08 10:58:20 IST 2021","2","Suite","Test","allureReports.Tests","allureReports.Tests","signupTest","Verify login","Verify login with Valid Credentials........"

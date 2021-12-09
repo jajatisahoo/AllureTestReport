@@ -1,0 +1,111 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "allureReports.Tests",
+    "children" : [ {
+      "name" : "logoPresence",
+      "uid" : "b336951c35c7d26d",
+      "parentUid" : "6b6ed405facf62515f3eb14737ed3363",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638941296867,
+        "stop" : 1638941297035,
+        "duration" : 168
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "loginTest",
+      "uid" : "3989f7fb9f596c6a",
+      "parentUid" : "6b6ed405facf62515f3eb14737ed3363",
+      "status" : "broken",
+      "time" : {
+        "start" : 1638941297413,
+        "stop" : 1638941300872,
+        "duration" : 3459
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "signupTest",
+      "uid" : "c64c396cffbfba69",
+      "parentUid" : "6b6ed405facf62515f3eb14737ed3363",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638941300883,
+        "stop" : 1638941300885,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "ForgotPassword",
+      "uid" : "6edc00dea2e6e7b9",
+      "parentUid" : "6b6ed405facf62515f3eb14737ed3363",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638941300894,
+        "stop" : 1638941300895,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "ForgotUsername",
+      "uid" : "f1edc21091f5827e",
+      "parentUid" : "6b6ed405facf62515f3eb14737ed3363",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638941300903,
+        "stop" : 1638941300904,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "registrationTest",
+      "uid" : "ac983688f0ab0377",
+      "parentUid" : "6b6ed405facf62515f3eb14737ed3363",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1638941300910,
+        "stop" : 1638941300911,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "allureReports.Tests"
+  } ]
+}

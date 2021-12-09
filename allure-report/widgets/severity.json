@@ -1,0 +1,61 @@
+[ {
+  "uid" : "b336951c35c7d26d",
+  "name" : "Verify Logo presence on Home Page",
+  "time" : {
+    "start" : 1638941296867,
+    "stop" : 1638941297035,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "ac983688f0ab0377",
+  "name" : "Verify user Registration",
+  "time" : {
+    "start" : 1638941300910,
+    "stop" : 1638941300911,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f1edc21091f5827e",
+  "name" : "Verify user name",
+  "time" : {
+    "start" : 1638941300903,
+    "stop" : 1638941300904,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "blocker"
+}, {
+  "uid" : "6edc00dea2e6e7b9",
+  "name" : "Verify user Registration",
+  "time" : {
+    "start" : 1638941300894,
+    "stop" : 1638941300895,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "c64c396cffbfba69",
+  "name" : "Verify login",
+  "time" : {
+    "start" : 1638941300883,
+    "stop" : 1638941300885,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "blocker"
+}, {
+  "uid" : "3989f7fb9f596c6a",
+  "name" : "Verify login",
+  "time" : {
+    "start" : 1638941297413,
+    "stop" : 1638941300872,
+    "duration" : 3459
+  },
+  "status" : "broken",
+  "severity" : "minor"
+} ]

@@ -1,0 +1,433 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "INJajSahoo01",
+    "children" : [ {
+      "name" : "18112@INJajSahoo01.main(1)",
+      "children" : [ {
+        "name" : "Verify user Registration",
+        "uid" : "6edc00dea2e6e7b9",
+        "parentUid" : "6ef5fc6bd4d3834bdfa5d065c9d96ab9",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638941300894,
+          "stop" : 1638941300895,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user name",
+        "uid" : "f1edc21091f5827e",
+        "parentUid" : "6ef5fc6bd4d3834bdfa5d065c9d96ab9",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638941300903,
+          "stop" : 1638941300904,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "ac983688f0ab0377",
+        "parentUid" : "6ef5fc6bd4d3834bdfa5d065c9d96ab9",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638941300910,
+          "stop" : 1638941300911,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Logo presence on Home Page",
+        "uid" : "b336951c35c7d26d",
+        "parentUid" : "6ef5fc6bd4d3834bdfa5d065c9d96ab9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638941296867,
+          "stop" : 1638941297035,
+          "duration" : 168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "3989f7fb9f596c6a",
+        "parentUid" : "6ef5fc6bd4d3834bdfa5d065c9d96ab9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1638941297413,
+          "stop" : 1638941300872,
+          "duration" : 3459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "c64c396cffbfba69",
+        "parentUid" : "6ef5fc6bd4d3834bdfa5d065c9d96ab9",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638941300883,
+          "stop" : 1638941300885,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6ef5fc6bd4d3834bdfa5d065c9d96ab9"
+    }, {
+      "name" : "19268@INJajSahoo01.main(1)",
+      "children" : [ {
+        "name" : "Verify user Registration",
+        "uid" : "dd96cd4eadec5888",
+        "parentUid" : "79902b3a0b7c0254f7d8756d94b03ccf",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638906285160,
+          "stop" : 1638906285161,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "f657f908e7f0d092",
+        "parentUid" : "79902b3a0b7c0254f7d8756d94b03ccf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1638906283014,
+          "stop" : 1638906285140,
+          "duration" : 2126
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "a0d8de793dd3f49a",
+        "parentUid" : "79902b3a0b7c0254f7d8756d94b03ccf",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638906285151,
+          "stop" : 1638906285152,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Logo presence on Home Page",
+        "uid" : "33faa998883817a1",
+        "parentUid" : "79902b3a0b7c0254f7d8756d94b03ccf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638906282729,
+          "stop" : 1638906282855,
+          "duration" : 126
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user name",
+        "uid" : "ccd6f015a50706d",
+        "parentUid" : "79902b3a0b7c0254f7d8756d94b03ccf",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638906285168,
+          "stop" : 1638906285169,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "2b049dd244e189e1",
+        "parentUid" : "79902b3a0b7c0254f7d8756d94b03ccf",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638906285175,
+          "stop" : 1638906285176,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "79902b3a0b7c0254f7d8756d94b03ccf"
+    }, {
+      "name" : "17172@INJajSahoo01.main(1)",
+      "children" : [ {
+        "name" : "Verify Logo presence on Home Page",
+        "uid" : "924caef901949bc6",
+        "parentUid" : "14aa759fb887f94d97a0805b43ff1f32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638906565493,
+          "stop" : 1638906565594,
+          "duration" : 101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user name",
+        "uid" : "2b74aa4a1b45c90b",
+        "parentUid" : "14aa759fb887f94d97a0805b43ff1f32",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638906568231,
+          "stop" : 1638906568233,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "cabf1db130da2703",
+        "parentUid" : "14aa759fb887f94d97a0805b43ff1f32",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638906568219,
+          "stop" : 1638906568220,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "5276de3b07d7db3d",
+        "parentUid" : "14aa759fb887f94d97a0805b43ff1f32",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638906568242,
+          "stop" : 1638906568244,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "6e293e2a7910107f",
+        "parentUid" : "14aa759fb887f94d97a0805b43ff1f32",
+        "status" : "broken",
+        "time" : {
+          "start" : 1638906565774,
+          "stop" : 1638906568196,
+          "duration" : 2422
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "443f9c20b1039b91",
+        "parentUid" : "14aa759fb887f94d97a0805b43ff1f32",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638906568207,
+          "stop" : 1638906568208,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "14aa759fb887f94d97a0805b43ff1f32"
+    }, {
+      "name" : "22024@INJajSahoo01.main(1)",
+      "children" : [ {
+        "name" : "Verify Logo presence on Home Page",
+        "uid" : "d9ad76367da0e41e",
+        "parentUid" : "f26e68305b3a8eeda062997c163e2334",
+        "status" : "passed",
+        "time" : {
+          "start" : 1638940716213,
+          "stop" : 1638940716306,
+          "duration" : 93
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "146697e707939cf5",
+        "parentUid" : "f26e68305b3a8eeda062997c163e2334",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638940719445,
+          "stop" : 1638940719446,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user name",
+        "uid" : "4bfc100e2696584a",
+        "parentUid" : "f26e68305b3a8eeda062997c163e2334",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638940719453,
+          "stop" : 1638940719455,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "2544cf044ef4b532",
+        "parentUid" : "f26e68305b3a8eeda062997c163e2334",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638940719436,
+          "stop" : 1638940719437,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "97ec067b058326bc",
+        "parentUid" : "f26e68305b3a8eeda062997c163e2334",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1638940719465,
+          "stop" : 1638940719466,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify login",
+        "uid" : "5b56dd10e553dd4c",
+        "parentUid" : "f26e68305b3a8eeda062997c163e2334",
+        "status" : "broken",
+        "time" : {
+          "start" : 1638940716435,
+          "stop" : 1638940719426,
+          "duration" : 2991
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f26e68305b3a8eeda062997c163e2334"
+    } ],
+    "uid" : "419b315d329fc7e81532edde6739099e"
+  } ]
+}

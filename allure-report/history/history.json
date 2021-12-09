@@ -1,0 +1,165 @@
+{
+  "7da5cacd9419505ef987fc7d46efcb96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "6edc00dea2e6e7b9",
+      "status" : "skipped",
+      "statusDetails" : "Skipping this Test",
+      "time" : {
+        "start" : 1638941300894,
+        "stop" : 1638941300895,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f45d57b6f6ff3fe9",
+      "status" : "skipped",
+      "statusDetails" : "Skipping this Test",
+      "time" : {
+        "start" : 1638905881412,
+        "stop" : 1638905881413,
+        "duration" : 1
+      }
+    } ]
+  },
+  "43fa655b1d9694ae983ea055daf4e2a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1edc21091f5827e",
+      "status" : "skipped",
+      "statusDetails" : "Skipping this Test",
+      "time" : {
+        "start" : 1638941300903,
+        "stop" : 1638941300904,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a135637f534911c3b6acd5616949a01c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c64c396cffbfba69",
+      "status" : "skipped",
+      "statusDetails" : "Skipping this Test",
+      "time" : {
+        "start" : 1638941300883,
+        "stop" : 1638941300885,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "af6bbeb6b9dc51a",
+      "status" : "skipped",
+      "statusDetails" : "Skipping this Test",
+      "time" : {
+        "start" : 1638905881399,
+        "stop" : 1638905881402,
+        "duration" : 3
+      }
+    } ]
+  },
+  "9961e6aa8bc56b6fc0bae7a7991426a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "3989f7fb9f596c6a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@class='button-1 login-button']\"}\n  (Session info: chrome=96.0.4664.45)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-3', revision: '8c567de6dc'\nSystem info: host: 'INJAJSAHOO01', ip: '192.168.225.59', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\\Users\\JajSahoo\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:57510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ed9d2a1b8aa9baf285c75fb51c9080f6\n*** Element info: {Using=xpath, value=//input[@class='button-1 login-button']}",
+      "time" : {
+        "start" : 1638941297413,
+        "stop" : 1638941300872,
+        "duration" : 3459
+      }
+    }, {
+      "uid" : "c1bc0211eb9169a2",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@class='button-1 login-button']\"}\n  (Session info: chrome=96.0.4664.45)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-3', revision: '8c567de6dc'\nSystem info: host: 'INJAJSAHOO01', ip: '192.168.43.215', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\\Users\\JajSahoo\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:62313}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 541b8e2d52b70cfe93804af93deaba07\n*** Element info: {Using=xpath, value=//input[@class='button-1 login-button']}",
+      "time" : {
+        "start" : 1638905879002,
+        "stop" : 1638905881386,
+        "duration" : 2384
+      }
+    } ]
+  },
+  "dc82d778ea68a96b4889ea838b4497dd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ac983688f0ab0377",
+      "status" : "skipped",
+      "statusDetails" : "Skipping this Test",
+      "time" : {
+        "start" : 1638941300910,
+        "stop" : 1638941300911,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "dfa7bae611dcd65a",
+      "status" : "skipped",
+      "statusDetails" : "Skipping this Test",
+      "time" : {
+        "start" : 1638905881421,
+        "stop" : 1638905881423,
+        "duration" : 2
+      }
+    } ]
+  },
+  "95d7374df39da895a482380a7bab51d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b336951c35c7d26d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638941296867,
+        "stop" : 1638941297035,
+        "duration" : 168
+      }
+    }, {
+      "uid" : "1edbe3610cddfa58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638905878749,
+        "stop" : 1638905878851,
+        "duration" : 102
+      }
+    } ]
+  }
+}
